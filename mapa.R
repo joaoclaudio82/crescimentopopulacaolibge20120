@@ -1,3 +1,4 @@
+#fazendo primeira alteracao no codigo
 libs <- c(
   "tidyverse", "terra",
   "giscoR", "tidyterra"
